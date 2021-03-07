@@ -1,6 +1,5 @@
 <h3 align="center">
-  NLW4 =>  TRILHA REACTJS, NEXT, CONTEXT.
-  <p> O aprendizado é continuo </P>
+  <p> Accordion </P>
 </h3>
 
 
